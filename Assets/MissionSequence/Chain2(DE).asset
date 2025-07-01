@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db1e6290388541a4395d2c2f6da37e17, type: 3}
+  m_Name: Chain2(DE)
+  m_EditorClassIdentifier: 
+  missions:
+  - {fileID: 11400000, guid: e120c4cf26b73bb47b1916d0634af77b, type: 2}
+  - {fileID: 11400000, guid: 060c8f33193c5ea4689b521f351f13f1, type: 2}

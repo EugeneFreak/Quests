@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db1e6290388541a4395d2c2f6da37e17, type: 3}
+  m_Name: Chain1(AVBC)
+  m_EditorClassIdentifier: 
+  missions:
+  - {fileID: 11400000, guid: 5ae85fc440298d2498536b650089a5e6, type: 2}
+  - {fileID: 11400000, guid: 85bdd5a368506ee48bafe6ea6efaf48b, type: 2}
+  - {fileID: 11400000, guid: 852fc657ce50d264a9d246420bdbf53b, type: 2}
